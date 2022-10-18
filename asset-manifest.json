@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/movieapp/static/js/main.fe926fa8.js",
+    "main.js": "/movieapp/static/js/main.9e1627af.js",
     "index.html": "/movieapp/index.html",
-    "main.fe926fa8.js.map": "/movieapp/static/js/main.fe926fa8.js.map"
+    "main.9e1627af.js.map": "/movieapp/static/js/main.9e1627af.js.map"
   },
   "entrypoints": [
-    "static/js/main.fe926fa8.js"
+    "static/js/main.9e1627af.js"
   ]
 }
