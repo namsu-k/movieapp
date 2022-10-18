@@ -5,7 +5,7 @@ function Descript({ coverImg, id, title, rating, year, genres, summary }) {
   return (
     <div>
       <h1>
-        <Link to={"/"}>HOME</Link>
+        <Link to={"/movieapp"}>HOME</Link>
       </h1>
       <img src={coverImg} alt={title}></img>
       <p>{id}</p>
